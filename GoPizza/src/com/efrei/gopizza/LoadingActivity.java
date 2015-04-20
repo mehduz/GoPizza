@@ -1,5 +1,5 @@
 package com.efrei.gopizza;
 
-public class loadingActivity {
+public class LoadingActivity {
 
 }

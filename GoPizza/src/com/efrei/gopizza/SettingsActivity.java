@@ -1,5 +1,5 @@
 package com.efrei.gopizza;
 
-public class receptionActivity {
+public class SettingsActivity {
 
 }

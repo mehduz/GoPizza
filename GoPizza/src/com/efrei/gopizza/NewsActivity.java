@@ -1,5 +1,5 @@
 package com.efrei.gopizza;
 
-public class settingsActivity {
+public class NewsActivity {
 
 }
